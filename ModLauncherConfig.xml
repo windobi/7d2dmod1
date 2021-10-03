@@ -2,10 +2,23 @@
 <Servers>
 	<ServerGroup Name="Sorcery" Logo="https://i.postimg.cc/fRBSLWsQ/sorcery-a19-logo-v09.png" Description="Play 7 Days to Die as a balanced post apocalyptic zombie vanquishing Sorcerer. Through training and discovery, you'll learn how to deport the undead straight back to hell by casting elemental spells of Fire, Ice and Lightning.">
 			<Server Name="Sorcery" Logo="https://i.postimg.cc/fRBSLWsQ/sorcery-a19-logo-v09.png">
-			<Description>A19.4 Mod Setup
-Kodi's Server Setup
+			<Description>Sorcery Staves and Rebalance (v0.96) - Completely Redesigned for A19!
+http://www.SorceryMod.com
 
 
+Next Public Release: September TBD (Lightning Element)
+SUPPORTER ACCESS: Become a Supporter to gain full-feature testing access, unlock the Treasury Perks and help ensure ongoing development!
+
+HOME: http://www.SorceryMod.com
+DISCORD: http://discord.SorceryMod.com
+FORUM: http://forum.SorceryMod.com
+WIKI: http://wiki.SorceryMod.com
+DIFFICULTY MODES: http://modes.SorceryMod.com
+
+FULLY COMPATIBLE: DARKNESS FALLS (v3.x): Sorcery is fully compatible with Darkness Falls! (must remove Deep Pockets from Mods)
+DF + Sorcery Instructions: https://discord.gg/EnHrDDd
+DF Compatibility Patch: http://df-download.sorcerymod.com/
+			</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
 			<ReleaseNotes>http://forum.SorceryMod.com</ReleaseNotes>
